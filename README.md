@@ -3,7 +3,7 @@
 # 概要
 　1を入力すると点灯し，0を入力すると消灯するデバイスドライバー．
 # 手法
-##  デバイスドライバ
+##  デバイスドライバの作成
 ```
 $ git clone https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts.git
 $ cd raspberry_pi_kernel_build_scripts
